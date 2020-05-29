@@ -1,0 +1,2 @@
+fruta="banana"
+list(fruta)
