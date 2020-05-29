@@ -14,4 +14,4 @@ https://www.python.org/downloads/
 
 ## Authors
 
-* **Rafael Merlo** - *Initial work* - [PurpleBooth](https://github.com/rafaelmm16)
+* **Rafael Merlo** - *Initial work* - [Perfil](https://github.com/rafaelmm16)
