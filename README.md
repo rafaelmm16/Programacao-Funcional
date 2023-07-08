@@ -1,10 +1,10 @@
 # Back_to_Python
 
-## Getting Started
+## Sobre
 
-O tempo passa, algumas vezes relembrar projetos antigos podem vir a calhar.
+Repositório para a Disciplina de Programação Funcional
 
-### Prerequisites
+### Pre-requisites
 
 Necessário a instalação do Python
 
@@ -14,4 +14,4 @@ https://www.python.org/downloads/
 
 ## Authors
 
-* **Rafael Merlo** - *Initial work* - [Perfil](https://github.com/rafaelmm16)
+* **Rafael Merlo** - [Perfil](https://github.com/rafaelmm16)
